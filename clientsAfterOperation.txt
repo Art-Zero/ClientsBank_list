@@ -1,0 +1,26 @@
+Petrova Arina Petrovna
+	45215422 100.0 USD
+		Petrova Arina Petrovna по вашему счёту 45215422 произведена операция пополнение депозита на сумму 15.0 USD
+		Petrova Arina Petrovna по вашему счёту 45215422 произведена операция покупка на сумму 10.0 USD
+
+
+Ivanov Ivan Ivanich
+	13556454 150.0 USD
+		Ivanov Ivan Ivanich по вашему счёту 13556454 произведена операция снятие наличных на сумму 2.5 USD
+		Ivanov Ivan Ivanich по вашему счёту 13556454 произведена операция покупка на сумму 10.0 USD
+	87955415 300.0 RUB
+		Ivanov Ivan Ivanich по вашему счёту 87955415 произведена операция снятие наличных на сумму 10.0 RUB
+
+
+Sidorov Oleg Olegovich
+	15452884 500.0 USD
+		Sidorov Oleg Olegovich по вашему счёту 15452884 произведена операция пополнение депозита на сумму 10.0 USD
+
+
+Petrova Arina Petrovna
+	45215422 105.0 USD
+Ivanov Ivan Ivanich
+	13556454 137.5 USD
+	87955415 290.0 RUB
+Sidorov Oleg Olegovich
+	15452884 510.0 USD
